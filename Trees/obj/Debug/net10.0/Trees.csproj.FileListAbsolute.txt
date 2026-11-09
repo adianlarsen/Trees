@@ -1,0 +1,15 @@
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/bin/Debug/net10.0/Trees
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/bin/Debug/net10.0/Trees.deps.json
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/bin/Debug/net10.0/Trees.runtimeconfig.json
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/bin/Debug/net10.0/Trees.dll
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/bin/Debug/net10.0/Trees.pdb
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.AssemblyInfoInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.AssemblyInfo.cs
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.csproj.CoreCompileInputs.cache
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.sourcelink.json
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.dll
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/refint/Trees.dll
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.pdb
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/Trees.genruntimeconfig.cache
+/Users/adianlarsen/Desktop/Data Structures/Trees/Trees/obj/Debug/net10.0/ref/Trees.dll
