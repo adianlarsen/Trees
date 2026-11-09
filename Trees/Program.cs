@@ -143,7 +143,7 @@ a) root: 50
 b) leaves: 20, 35, 45, 80
 c) internal nodes: 50, 30, 40, 70
 d) parent of 35: 40 sibling of 20: 40
-e) depth of 35: 3 (50 -> 30 -> 40 -> 35) height of node 30: 2 (30 -> 45 -> 35)
+e) depth of 35: 3 (50 -> 30 -> 40 -> 35) height of node 30: 2 (30 -> 40 -> 35), (30 -> 40 -> 45)
 f) height of tree: 3 size: 8 nodes
 g) degree of 70: 1, because it has 1 child
 h) valid BST? why: Yes, node 30's left has 20, which is less than 30 and right has 35, 40 and 45, which are all greater than 30. 70 greater than 50, 80 greater than 70
@@ -157,16 +157,42 @@ Reasons for each No:
 -C is also not perfect for the same reason, the heioghts of the branches are different.
 -C is not complete, because the tree doesn't fill left to right
 ---- Question 3 ----
-a) tree: Picture on canvas submission
+a) tree: 
+        41
+       /  \
+      20  65
+     /  \ /  \
+    11 29 50 91
+        \    / \
+        32  72 99
+
 b) height: 3 number of leaves: 5
 c) Contains(32) visits: 41 -> 20 -> 29 -> 32 returns: true
 Contains(60) visits: 41 -> 65 -> 50 returns: false
 ---- Question 4 ----
-a) tree: Picture on canvas submission
+a) tree: 
+        10
+         \
+          20
+           \
+           30
+            \
+            40
+             \
+             50
+             
 height: 4
 b) nodes visited by Contains(50): 5 nodes, 10 -> 20 -> 30 -> 40 -> 50 Big O: O(n) acts like: single linked list
 ---- Question 5 ----
-a) tree: Drawn on paper
+a) tree: 
+        90
+      /    \
+    70      85
+    / \     / \
+   40  65  80 30
+   / \
+  10 35
+
 b) children of 70 (show math): Left = 2(1) + 1 = index 3 = 40  Right = 2(1) + 2 = index 4 = 65
 c) parent of 35 (show math): i = 8 (8-1)/2 = 7/2 = index 3 = 40
 d) why 65 is a leaf (show math): 8 is the max index. For left, 2(4) + 1 = 9 and right 2(4) + 2 = 10, which are both greater than 8, so it is a leaf with no children
